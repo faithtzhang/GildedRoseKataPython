@@ -2,7 +2,6 @@
 import unittest
 
 from gilded_rose import Item, GildedRose
-# lab5
 
 class GildedRoseTest(unittest.TestCase):
     def test_foo(self):
